@@ -213,7 +213,7 @@ input[type="submit"]:hover {
   position: fixed;
   display: none;
   background-color: #0085ff;
-  border-radius: 10px;
+  border-radius: 0 10px 10px 10px;
   padding: 10px;
   width: fit-content;
   margin-top: 10px;
